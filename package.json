@@ -1,0 +1,15 @@
+{
+  "name": "react_production",
+  "version": "1.0.0",
+  "description": "This is the final front end deployment code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaneetha Krishnan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
